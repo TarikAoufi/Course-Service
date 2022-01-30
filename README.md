@@ -6,3 +6,4 @@ Dans cette Démo, on gère la Communication entre deux applications back-end et 
 L'application back-end: Course-Service, est un micro-service basé sur Spring Boot, qui expose une API Data REST de gestion de cours.
 
 URL: http://localhost:8082/api/courses
+  
