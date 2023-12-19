@@ -1,5 +1,5 @@
 # Course-Service
-Spring [ boot, data-jpa , data-rest , web], Maven, MySQL, JDK8, Eclipse
+Spring [ boot, data-jpa , data-rest , web], Maven, MySQL, JDK8, Eclipse 
 
 Dans cette Démo, on gère la Communication entre deux applications back-end et front-end (resp. Course-Service et VueJS3-CourseWeb)
 
